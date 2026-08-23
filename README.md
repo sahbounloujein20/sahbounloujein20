@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Loujein Sahboun</h1>
 
 <h3 align="center">
-Computer Science Student at ENSI 🇹🇳 | Data Science & Machine Learning
+Computer Science Student at ENSI 
 </h3>
 
 <p align="center">
@@ -29,12 +29,6 @@ and building real-world projects with code.**
 - 🗄️ SQL & Database projects
 - 🧠 Improving my understanding of statistics and ML
 
-🌱 Currently learning:
-- Machine Learning
-- Deep Learning
-- NLP
-- Advanced Python
-- Data Structures & Algorithms
 
 💡 My goal:
 Build strong technical foundations and turn data into meaningful solutions.
@@ -84,34 +78,7 @@ Build strong technical foundations and turn data into meaningful solutions.
 
 ---
 
-# 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 📊 Data Analysis
-
-Exploratory data analysis using Python, Pandas, NumPy and visualization techniques.
-
-*Tech:*
-Python • Pandas • NumPy • Matplotlib
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 Machine Learning
-
-Machine learning projects focused on prediction, classification and model evaluation.
-
-*Tech:*
-Python • Scikit-learn • Pandas
-
-</td>
-
-<td width="33%" valign="top">
 
 ### 🗄️ SQL Projects
 
@@ -143,16 +110,7 @@ alt="Top Languages"/>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahbounloujein20&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -165,19 +123,4 @@ alt="Contribution Graph"/>
 
 ---
 
-# 🎯 Current Goals
 
-```text
-📚 Strengthen Computer Science fundamentals
-        ↓
-🐍 Become highly proficient in Python
-        ↓
-📊 Master Data Science & Statistics
-        ↓
-🤖 Build strong Machine Learning projects
-        ↓
-🧠 Learn Deep Learning & NLP
-        ↓
-🚀 Build impactful real-world projects
-        ↓
-🌍 Contribute to Open Source
