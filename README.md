@@ -67,7 +67,7 @@ Build strong technical foundations and turn data into meaningful solutions.
 
 🌟 Featured Projects
 
-<table> <tr>
+
 
 <td width="50%" valign="top">
 
@@ -86,9 +86,7 @@ Docker
 
 🔗 View Project →
 
-</td>
 
-<td width="50%" valign="top">
 
 
 🔥 GitHub Streak
