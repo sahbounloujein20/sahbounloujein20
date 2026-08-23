@@ -94,30 +94,7 @@ SQL • PostgreSQL • MySQL
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=sahbounloujein20&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-alt="GitHub Stats"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahbounloujein20&layout=compact&theme=github_dark&hide_border=true"
-alt="Top Languages"/>
-
-</p>
-
----
-
-
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahbounloujein20&theme=github-compact&hide_border=true"
-alt="Contribution Graph"/>
 
 </p>
 
