@@ -84,7 +84,7 @@ Streamlit
 n8n
 Docker
 
-🔗 View Project →
+🔗 View Project →<a href="https://github.com/sahbounloujein20/NetVerify-Automated-Post-Intervention-Verification-and-Quality-of-Service-Platform">
 
 
 
@@ -105,6 +105,9 @@ Docker
 <a href="https://github.com/sahbounloujein20"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </p>
+<a href="www.linkedin.com/in/loujein-sahboun-02415b406">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <p align="center">
 
