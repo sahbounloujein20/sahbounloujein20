@@ -68,15 +68,15 @@ Build strong technical foundations and turn data into meaningful solutions.
 🌟 Featured Projects
 
 
-
+🌟 Featured Projects
+<table>
+<tr>
 <td width="50%" valign="top">
 
-📡 NetVerify
-
+📡 **NetVerify**
 Telecom QoS Verification Platform
 
 Automated post-intervention verification with:
-
 Machine Learning
 FastAPI
 PostgreSQL
@@ -84,7 +84,25 @@ Streamlit
 n8n
 Docker
 
-🔗 View Project →<a href="https://github.com/sahbounloujein20/NetVerify-Automated-Post-Intervention-Verification-and-Quality-of-Service-Platform">
+🔗 [View Project →](https://github.com/sahbounloujein20/NetVerify-Automated-Post-Intervention-Verification-and-Quality-of-Service-Platform)
+
+</td>
+<td width="50%" valign="top">
+
+🚗 **TunisAutoScrape**
+Tunisian Used Car Market Dashboard
+
+Automated scraping and analytics of used-car listings:
+Python
+Scrapy
+SQL Server
+Power BI
+
+🔗 [View Project →](https://github.com/sahbounloujein20/Tn-AutoScrape)
+
+</td>
+</tr>
+</table>
 
 
 
