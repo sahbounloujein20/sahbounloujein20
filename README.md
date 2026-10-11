@@ -6,11 +6,7 @@
 Computer Science Student at ENSI 
 </h3>
 
-<p align="center">
-  <a href="https://github.com/sahbounloujein20">
-    <img src="https://komarev.com/ghpvc/?username=sahbounloujein20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+
 
 ---
 
